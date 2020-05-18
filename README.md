@@ -61,7 +61,16 @@ Physical devices that have been used to test our application include:
 * **Git** must be installed ([Installation Instructions](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git))
 
 ### Cloning the repository
+#### Windows
 From the cmd prompt or PowerShell type in the instruction 
+**git clone https://github.com/willpanderson/Auto-Learn-Pro.git**
+![](Documentation/Readme_Images/clone_repo.JPG) <br />
+
+Verify that you have the contents of the repository by listing the directory
+![](Documentation/Readme_Images/list_repo.JPG)
+
+#### Linux
+From the terminal type in the instruction
 **git clone https://github.com/willpanderson/Auto-Learn-Pro.git**
 ![](Documentation/Readme_Images/clone_repo.png)
 
